@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">👨🏼‍💻 Currently Intern  @NEILIT Gorakhpur, A passionate Full Stack Web Developer</h2>
+<h2 align="left">👨🏼‍💻 Currently Intern  @NEILIT Gorakhpur as a Full Stack Web Developer</h2>
 👨🏼‍🎓 Pursuing B.Tech (IT) at Deen Dayal Upadhyaya Gorakhpur University<br>👨🏼‍💻 working as a Web Developer since 2022 <br>
 
 ###
