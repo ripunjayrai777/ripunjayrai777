@@ -88,7 +88,7 @@
 
 ###
 
-<h2 align="left">⚡️ Chart :</h2>
+<h2 align="left">⚡️ Chart -</h2>
 
 ###
 
