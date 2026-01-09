@@ -2,8 +2,8 @@
 
 ###
 
-<h2 align="left">👨🏼‍💻 Currently Intern  @NEILIT Gorakhpur as a Full Stack Web Developer</h2>
-👨🏼‍🎓 Pursuing B.Tech (IT) at Deen Dayal Upadhyaya Gorakhpur University<br>👨🏼‍💻 working as a Full Stack Web Developer since 2023. <br>
+<h2 align="left">👨🏼‍💻 Currently Working @NEILIT Gorakhpur as a Jr. Software Engineer</h2>
+👨🏼‍🎓 B.Tech (IT) from Deen Dayal Upadhyaya Gorakhpur University<br>👨🏼‍💻 worked as a Full Stack Web Developer from 2024 to 2025. Now working as AI| ML Engineer since 2025. <br>
 
 ###
 
