@@ -4,6 +4,8 @@
 <h2 align="left">👨🏼‍💻 Currently Working @NEILIT Gorakhpur as a Jr. Software Engineer</h2>
 👨🏼‍🎓 B.Tech (IT) from Deen Dayal Upadhyaya Gorakhpur University<br>👨🏼‍💻 worked as a Full Stack Web Developer from 2024 to 2025. Now working as AI| ML Engineer since 2025. <br>
 
+![Profile views](https://komarev.com/ghpvc/?username=ripunjayrai777&color=blue)
+
 ###
 
 # 📊 GitHub Stats:
